@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ddd503/TypeScript-For-JavaScript-Developers/issues"
   },
-  "homepage": "https://github.com/ddd503/TypeScript-For-JavaScript-Developers#readme"
+  "homepage": "https://github.com/ddd503/TypeScript-For-JavaScript-Developers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
